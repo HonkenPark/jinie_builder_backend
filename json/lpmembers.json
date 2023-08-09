@@ -1,1 +1,1184 @@
-{"LP_Members":[{"crosshec":{"id":"crosshec","passwd":"1234","name":"허은철","grade":"리더","team":"PD R&D그룹","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"anysw3":{"id":"anysw3","passwd":"1234","name":"이성우","grade":"매니저","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"bluechj514":{"id":"bluechj514","passwd":"1234","name":"최혜진","grade":"매니저","team":"PD2팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"sizhawk":{"id":"sizhawk","passwd":"1234","name":"박홍근","grade":"매니저","team":"PD1팀","build_info":{"buildpath":"D:\\data\\NextVUI_23RU1\\LP Tools","mode":"dm","ALL":"0","environ":"EnvironMode.local","vendor":"lge","platform":"prm5","langs":{"mobis":{"LANG":["KOK","ENU","FRC","SPM"],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":["ENG"],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":1,"LITERAL_TABLE_ONLY":1,"INDEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":1,"SCENARIO_BUILDER":1,"REFERENCE_DB_BUILDER":1,"LEX_DB_BUILDER":1,"DIALOG_DB_BUILDER":1,"PROMPT_DB_BUILDER":1,"CATEGORY_DB_BUILDER":1,"VDE_DB_BUILDER":1}}}}},{"myeongha":{"id":"myeongha","passwd":"1234","name":"선명하","grade":"매니저","team":"PD2팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"alsrudgns7":{"id":"alsrudgns7","passwd":"1234","name":"이윤선","grade":"매니저","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"myoungjin":{"id":"myoungjin","passwd":"1234","name":"정명진","grade":"매니저","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"bluesky72":{"id":"bluesky72","passwd":"1234","name":"조희선","grade":"매니저","team":"PD2팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"marribcar":{"id":"marribcar","passwd":"1234","name":"Marta","grade":"프로","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"machu8":{"id":"machu8","passwd":"1234","name":"안종민","grade":"프로","team":"PD2팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"tjdus0217":{"id":"tjdus0217","passwd":"1234","name":"이서연","grade":"프로","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"sj7153":{"id":"sj7153","passwd":"1234","name":"이수정","grade":"프로","team":"PD2팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"showkee07":{"id":"showkee07","passwd":"1234","name":"정민석","grade":"프로","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"y94.cha":{"id":"y94.cha","passwd":"1234","name":"차영준","grade":"프로","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"jinwoo.choi":{"id":"jinwoo.choi","passwd":"1234","name":"최진우","grade":"프로","team":"PD1팀","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":{"mobis":{"LANG":[],"ALL_LANG":[],"NA_LANG":[],"SEA_LANG":[],"TTS_ONLY_LANG":[]},"lge":{"LANG":[],"NAVI_O":[],"NAVI_X":[],"ALL_LANG":[],"VDE_LANG":[],"TTS_ONLY":[]}},"environ":"","vendor":"","platform":""}}},{"administrator":{"id":"administrator","passwd":"admin1234","name":"관리자","grade":"","team":"PD R&D그룹","build_info":{"buildpath":"","mode":"","ALL":"0","params":{"mobis":{"MERGE_LITERAL_TABLE":0,"LANGUAGE_LITERAL_TABLE":0,"TABLE_BUILDER":0,"INDEX_DB_BUILDER":0,"LEX_DB_BUILDER":1,"PROGRAM_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"SCENARIO_BUILDER":0,"PROMPT_DB_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER_FOR_POI_CATEGORY":0,"LEX_DB_BUILDER_FOR_POI_VDE":0,"REFERENCE_DB_BUILDER_FOR_POI_CATEGORY":0,"TTS_USER_DIC_BUILD":0},"lge":{"TABLE_BUILDER":0,"LITERAL_TABLE_ONLY":0,"INDEX_DB_BUILDER":0,"PROGRAM_DB_BUILDER":0,"SCENARIO_BUILDER":0,"REFERENCE_DB_BUILDER":0,"LEX_DB_BUILDER":0,"DIALOG_DB_BUILDER":0,"PROMPT_DB_BUILDER":0,"CATEGORY_DB_BUILDER":0,"VDE_DB_BUILDER":0}},"langs":[],"environ":"","vendor":"","platform":""}}}]}
+{
+    "LP_Members": [
+        {
+            "crosshec": {
+                "id": "crosshec",
+                "passwd": "1234",
+                "name": "허은철",
+                "grade": "리더",
+                "team": "PD R&D그룹",
+                "build_info": {
+                    "buildpath": "C:\\Mobis_NextVUI\\LP Tools",
+                    "mode": "dm",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "EnvironMode.local",
+                    "vendor": "mobis",
+                    "platform": "stdg5w_mobis",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [
+                                "ENI"
+                            ],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [
+                                "ENG"
+                            ],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 1,
+                            "LANGUAGE_LITERAL_TABLE": 1,
+                            "TABLE_BUILDER": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 1,
+                            "LITERAL_TABLE_ONLY": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "CATEGORY_DB_BUILDER": 1,
+                            "VDE_DB_BUILDER": 1
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "anysw3": {
+                "id": "anysw3",
+                "passwd": "1234",
+                "name": "이성우",
+                "grade": "매니저",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "D:\\LGE\\NextVUI\\LP Tools",
+                    "mode": "dm",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "EnvironMode.local",
+                    "vendor": "lge",
+                    "platform": "stdg5w_lge",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [
+                                "ENG"
+                            ],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 1,
+                            "LITERAL_TABLE_ONLY": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "bluechj514": {
+                "id": "bluechj514",
+                "passwd": "1234",
+                "name": "최혜진",
+                "grade": "매니저",
+                "team": "PD2팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "sizhawk": {
+                "id": "sizhawk",
+                "passwd": "1234",
+                "name": "박홍근",
+                "grade": "매니저",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "D:\\data\\Mobis\\NextVUI\\LP Tools",
+                    "mode": "dm",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "EnvironMode.local",
+                    "vendor": "mobis",
+                    "platform": "stdg5w_mobis",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [
+                                "ENI"
+                            ],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [
+                                "ENG"
+                            ],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 1,
+                            "LANGUAGE_LITERAL_TABLE": 1,
+                            "TABLE_BUILDER": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 1,
+                            "LITERAL_TABLE_ONLY": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "myeongha": {
+                "id": "myeongha",
+                "passwd": "1234",
+                "name": "선명하",
+                "grade": "매니저",
+                "team": "PD2팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "alsrudgns7": {
+                "id": "alsrudgns7",
+                "passwd": "1234",
+                "name": "이윤선",
+                "grade": "매니저",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "myoungjin": {
+                "id": "myoungjin",
+                "passwd": "1234",
+                "name": "정명진",
+                "grade": "매니저",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "bluesky72": {
+                "id": "bluesky72",
+                "passwd": "1234",
+                "name": "조희선",
+                "grade": "매니저",
+                "team": "PD2팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "marribcar": {
+                "id": "marribcar",
+                "passwd": "1234",
+                "name": "Marta",
+                "grade": "프로",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "machu8": {
+                "id": "machu8",
+                "passwd": "1234",
+                "name": "안종민",
+                "grade": "프로",
+                "team": "PD2팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "tjdus0217": {
+                "id": "tjdus0217",
+                "passwd": "1234",
+                "name": "이서연",
+                "grade": "프로",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "sj7153": {
+                "id": "sj7153",
+                "passwd": "1234",
+                "name": "이수정",
+                "grade": "프로",
+                "team": "PD2팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "showkee07": {
+                "id": "showkee07",
+                "passwd": "1234",
+                "name": "정민석",
+                "grade": "프로",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "G:\\WideEU_LGE\\LP Tools",
+                    "mode": "dm",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "EnvironMode.local",
+                    "vendor": "lge",
+                    "platform": "stdg5w_lge",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [
+                                "ENG"
+                            ],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 1,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "y94.cha": {
+                "id": "y94.cha",
+                "passwd": "1234",
+                "name": "차영준",
+                "grade": "프로",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "C:\\Mediazen\\001_Platform\\01_LGE_Gen_5W_EU\\NextVUI_23_2\\LP Tools",
+                    "mode": "dm",
+                    "engine": "cerence",
+                    "ALL": "2",
+                    "environ": "EnvironMode.local",
+                    "vendor": "lge",
+                    "platform": "stdg5w_lge",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 1,
+                            "LITERAL_TABLE_ONLY": 1,
+                            "INDEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 1,
+                            "SCENARIO_BUILDER": 1,
+                            "REFERENCE_DB_BUILDER": 1,
+                            "LEX_DB_BUILDER": 1,
+                            "DIALOG_DB_BUILDER": 1,
+                            "PROMPT_DB_BUILDER": 1,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "jinwoo.choi": {
+                "id": "jinwoo.choi",
+                "passwd": "1234",
+                "name": "최진우",
+                "grade": "프로",
+                "team": "PD1팀",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {
+                        "mobis": {
+                            "LANG": [],
+                            "ALL_LANG": [],
+                            "NA_LANG": [],
+                            "SEA_LANG": [],
+                            "TTS_ONLY_LANG": []
+                        },
+                        "lge": {
+                            "LANG": [],
+                            "NAVI_O": [],
+                            "NAVI_X": [],
+                            "ALL_LANG": [],
+                            "VDE_LANG": [],
+                            "TTS_ONLY": []
+                        }
+                    },
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        },
+        {
+            "administrator": {
+                "id": "administrator",
+                "passwd": "admin1234",
+                "name": "관리자",
+                "grade": "",
+                "team": "PD R&D그룹",
+                "build_info": {
+                    "buildpath": "",
+                    "mode": "",
+                    "engine": "cerence",
+                    "ALL": "0",
+                    "environ": "",
+                    "vendor": "",
+                    "platform": "",
+                    "langs": {},
+                    "params": {
+                        "mobis": {
+                            "MERGE_LITERAL_TABLE": 0,
+                            "LANGUAGE_LITERAL_TABLE": 0,
+                            "TABLE_BUILDER": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 1,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "LEX_DB_BUILDER_FOR_POI_VDE": 0,
+                            "REFERENCE_DB_BUILDER_FOR_POI_CATEGORY": 0,
+                            "TTS_USER_DIC_BUILD": 0
+                        },
+                        "lge": {
+                            "TABLE_BUILDER": 0,
+                            "LITERAL_TABLE_ONLY": 0,
+                            "INDEX_DB_BUILDER": 0,
+                            "PROGRAM_DB_BUILDER": 0,
+                            "SCENARIO_BUILDER": 0,
+                            "REFERENCE_DB_BUILDER": 0,
+                            "LEX_DB_BUILDER": 0,
+                            "DIALOG_DB_BUILDER": 0,
+                            "PROMPT_DB_BUILDER": 0,
+                            "CATEGORY_DB_BUILDER": 0,
+                            "VDE_DB_BUILDER": 0
+                        }
+                    },
+                    "lm_params": {
+                        "ASR_USER_DIC": 0,
+                        "BNF_COMPILE": 1,
+                        "GRAMMAR_DB_BUILDER": 1,
+                        "SLM": 0,
+                        "BNF": 1,
+                        "TEST": 0
+                    }
+                }
+            }
+        }
+    ]
+}
